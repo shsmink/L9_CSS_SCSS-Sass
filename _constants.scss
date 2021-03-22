@@ -1,0 +1,9 @@
+$color-green: #97d279;
+$color-softer-green: #c0eea9;
+$primary-padding: 20px;
+
+@mixin standard-text {
+  max-width: 700px;
+  text-align: center;
+  padding: $primary-padding;
+}
